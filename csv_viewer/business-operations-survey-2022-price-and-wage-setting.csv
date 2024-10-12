@@ -1,7 +1,7 @@
 description,industry,level,size,line_code,value
-Business main customer: individuals or households,total,0,6–19 employees,C0300.01,15639
-Business main customer: individuals or households,total,0,20–49 employees,C0300.01,2943
-Business main customer: individuals or households,total,0,50–99 employees,C0300.01,639
+Business main customer: individuals or households,total,0,6â€“19 employees,C0300.01,15639
+Business main customer: individuals or households,total,0,20â€“49 employees,C0300.01,2943
+Business main customer: individuals or households,total,0,50â€“99 employees,C0300.01,639
 Business main customer: individuals or households,total,0,100+ employees,C0300.01,555
 Business main customer: individuals or households,"Agriculture, forestry, & fishing",1,total,C0300.01,348
 Business main customer: individuals or households,Agriculture,2,total,C0300.01,177
@@ -46,9 +46,9 @@ Business main customer: individuals or households,Health care & social assistanc
 Business main customer: individuals or households,Arts & recreation services,1,total,C0300.01,453
 Business main customer: individuals or households,Other services,1,total,C0300.01,480
 Business main customer: individuals or households,total,0,total,C0300.01,19776
-Business main customer: businesses within same group,total,0,6–19 employees,C0300.02,2970
-Business main customer: businesses within same group,total,0,20–49 employees,C0300.02,756
-Business main customer: businesses within same group,total,0,50–99 employees,C0300.02,231
+Business main customer: businesses within same group,total,0,6â€“19 employees,C0300.02,2970
+Business main customer: businesses within same group,total,0,20â€“49 employees,C0300.02,756
+Business main customer: businesses within same group,total,0,50â€“99 employees,C0300.02,231
 Business main customer: businesses within same group,total,0,100+ employees,C0300.02,189
 Business main customer: businesses within same group,"Agriculture, forestry, & fishing",1,total,C0300.02,339
 Business main customer: businesses within same group,Agriculture,2,total,C0300.02,240
@@ -93,9 +93,9 @@ Business main customer: businesses within same group,Health care & social assist
 Business main customer: businesses within same group,Arts & recreation services,1,total,C0300.02,18
 Business main customer: businesses within same group,Other services,1,total,C0300.02,72
 Business main customer: businesses within same group,total,0,total,C0300.02,4146
-Business main customer: retailers or wholesalers outside business group,total,0,6–19 employees,C0300.03,4290
-Business main customer: retailers or wholesalers outside business group,total,0,20–49 employees,C0300.03,1062
-Business main customer: retailers or wholesalers outside business group,total,0,50–99 employees,C0300.03,438
+Business main customer: retailers or wholesalers outside business group,total,0,6â€“19 employees,C0300.03,4290
+Business main customer: retailers or wholesalers outside business group,total,0,20â€“49 employees,C0300.03,1062
+Business main customer: retailers or wholesalers outside business group,total,0,50â€“99 employees,C0300.03,438
 Business main customer: retailers or wholesalers outside business group,total,0,100+ employees,C0300.03,339
 Business main customer: retailers or wholesalers outside business group,"Agriculture, forestry, & fishing",1,total,C0300.03,1188
 Business main customer: retailers or wholesalers outside business group,Agriculture,2,total,C0300.03,1077
@@ -140,9 +140,9 @@ Business main customer: retailers or wholesalers outside business group,Health c
 Business main customer: retailers or wholesalers outside business group,Arts & recreation services,1,total,C0300.03,3
 Business main customer: retailers or wholesalers outside business group,Other services,1,total,C0300.03,120
 Business main customer: retailers or wholesalers outside business group,total,0,total,C0300.03,6132
-Business main customer: other businesses outside business group,total,0,6–19 employees,C0300.04,12555
-Business main customer: other businesses outside business group,total,0,20–49 employees,C0300.04,3282
-Business main customer: other businesses outside business group,total,0,50–99 employees,C0300.04,1020
+Business main customer: other businesses outside business group,total,0,6â€“19 employees,C0300.04,12555
+Business main customer: other businesses outside business group,total,0,20â€“49 employees,C0300.04,3282
+Business main customer: other businesses outside business group,total,0,50â€“99 employees,C0300.04,1020
 Business main customer: other businesses outside business group,total,0,100+ employees,C0300.04,705
 Business main customer: other businesses outside business group,"Agriculture, forestry, & fishing",1,total,C0300.04,2019
 Business main customer: other businesses outside business group,Agriculture,2,total,C0300.04,1095
@@ -187,9 +187,9 @@ Business main customer: other businesses outside business group,Health care & so
 Business main customer: other businesses outside business group,Arts & recreation services,1,total,C0300.04,54
 Business main customer: other businesses outside business group,Other services,1,total,C0300.04,777
 Business main customer: other businesses outside business group,total,0,total,C0300.04,17562
-Business main customer: government,total,0,6–19 employees,C0300.05,2274
-Business main customer: government,total,0,20–49 employees,C0300.05,672
-Business main customer: government,total,0,50–99 employees,C0300.05,282
+Business main customer: government,total,0,6â€“19 employees,C0300.05,2274
+Business main customer: government,total,0,20â€“49 employees,C0300.05,672
+Business main customer: government,total,0,50â€“99 employees,C0300.05,282
 Business main customer: government,total,0,100+ employees,C0300.05,204
 Business main customer: government,"Agriculture, forestry, & fishing",1,total,C0300.05,54
 Business main customer: government,Agriculture,2,total,C0300.05,24
@@ -234,9 +234,9 @@ Business main customer: government,Health care & social assistance,1,total,C0300
 Business main customer: government,Arts & recreation services,1,total,C0300.05,12
 Business main customer: government,Other services,1,total,C0300.05,15
 Business main customer: government,total,0,total,C0300.05,3432
-Proportion of customers on long term price contract: zero,total,0,6–19 employees,C0400.01,20001
-Proportion of customers on long term price contract: zero,total,0,20–49 employees,C0400.01,3798
-Proportion of customers on long term price contract: zero,total,0,50–99 employees,C0400.01,894
+Proportion of customers on long term price contract: zero,total,0,6â€“19 employees,C0400.01,20001
+Proportion of customers on long term price contract: zero,total,0,20â€“49 employees,C0400.01,3798
+Proportion of customers on long term price contract: zero,total,0,50â€“99 employees,C0400.01,894
 Proportion of customers on long term price contract: zero,total,0,100+ employees,C0400.01,648
 Proportion of customers on long term price contract: zero,"Agriculture, forestry, & fishing",1,total,C0400.01,2049
 Proportion of customers on long term price contract: zero,Agriculture,2,total,C0400.01,1398
@@ -281,9 +281,9 @@ Proportion of customers on long term price contract: zero,Health care & social a
 Proportion of customers on long term price contract: zero,Arts & recreation services,1,total,C0400.01,249
 Proportion of customers on long term price contract: zero,Other services,1,total,C0400.01,660
 Proportion of customers on long term price contract: zero,total,0,total,C0400.01,25341
-Proportion of customers on long term price contract: 1-25%,total,0,6–19 employees,C0400.02,5379
-Proportion of customers on long term price contract: 1-25%,total,0,20–49 employees,C0400.02,1563
-Proportion of customers on long term price contract: 1-25%,total,0,50–99 employees,C0400.02,537
+Proportion of customers on long term price contract: 1-25%,total,0,6â€“19 employees,C0400.02,5379
+Proportion of customers on long term price contract: 1-25%,total,0,20â€“49 employees,C0400.02,1563
+Proportion of customers on long term price contract: 1-25%,total,0,50â€“99 employees,C0400.02,537
 Proportion of customers on long term price contract: 1-25%,total,0,100+ employees,C0400.02,399
 Proportion of customers on long term price contract: 1-25%,"Agriculture, forestry, & fishing",1,total,C0400.02,474
 Proportion of customers on long term price contract: 1-25%,Agriculture,2,total,C0400.02,330
@@ -328,9 +328,9 @@ Proportion of customers on long term price contract: 1-25%,Health care & social 
 Proportion of customers on long term price contract: 1-25%,Arts & recreation services,1,total,C0400.02,105
 Proportion of customers on long term price contract: 1-25%,Other services,1,total,C0400.02,297
 Proportion of customers on long term price contract: 1-25%,total,0,total,C0400.02,7878
-Proportion of customers on long term price contract: 26-50%,total,0,6–19 employees,C0400.03,1992
-Proportion of customers on long term price contract: 26-50%,total,0,20–49 employees,C0400.03,609
-Proportion of customers on long term price contract: 26-50%,total,0,50–99 employees,C0400.03,189
+Proportion of customers on long term price contract: 26-50%,total,0,6â€“19 employees,C0400.03,1992
+Proportion of customers on long term price contract: 26-50%,total,0,20â€“49 employees,C0400.03,609
+Proportion of customers on long term price contract: 26-50%,total,0,50â€“99 employees,C0400.03,189
 Proportion of customers on long term price contract: 26-50%,total,0,100+ employees,C0400.03,153
 Proportion of customers on long term price contract: 26-50%,"Agriculture, forestry, & fishing",1,total,C0400.03,75
 Proportion of customers on long term price contract: 26-50%,Agriculture,2,total,C0400.03,45
@@ -375,9 +375,9 @@ Proportion of customers on long term price contract: 26-50%,Health care & social
 Proportion of customers on long term price contract: 26-50%,Arts & recreation services,1,total,C0400.03,108
 Proportion of customers on long term price contract: 26-50%,Other services,1,total,C0400.03,84
 Proportion of customers on long term price contract: 26-50%,total,0,total,C0400.03,2946
-Proportion of customers on long term price contract: 51-75%,total,0,6–19 employees,C0400.04,2205
-Proportion of customers on long term price contract: 51-75%,total,0,20–49 employees,C0400.04,597
-Proportion of customers on long term price contract: 51-75%,total,0,50–99 employees,C0400.04,228
+Proportion of customers on long term price contract: 51-75%,total,0,6â€“19 employees,C0400.04,2205
+Proportion of customers on long term price contract: 51-75%,total,0,20â€“49 employees,C0400.04,597
+Proportion of customers on long term price contract: 51-75%,total,0,50â€“99 employees,C0400.04,228
 Proportion of customers on long term price contract: 51-75%,total,0,100+ employees,C0400.04,195
 Proportion of customers on long term price contract: 51-75%,"Agriculture, forestry, & fishing",1,total,C0400.04,249
 Proportion of customers on long term price contract: 51-75%,Agriculture,2,total,C0400.04,174
@@ -422,9 +422,9 @@ Proportion of customers on long term price contract: 51-75%,Health care & social
 Proportion of customers on long term price contract: 51-75%,Arts & recreation services,1,total,C0400.04,24
 Proportion of customers on long term price contract: 51-75%,Other services,1,total,C0400.04,102
 Proportion of customers on long term price contract: 51-75%,total,0,total,C0400.04,3225
-Proportion of customers on long term price contract: 76-100%,total,0,6–19 employees,C0400.05,5844
-Proportion of customers on long term price contract: 76-100%,total,0,20–49 employees,C0400.05,1713
-Proportion of customers on long term price contract: 76-100%,total,0,50–99 employees,C0400.05,597
+Proportion of customers on long term price contract: 76-100%,total,0,6â€“19 employees,C0400.05,5844
+Proportion of customers on long term price contract: 76-100%,total,0,20â€“49 employees,C0400.05,1713
+Proportion of customers on long term price contract: 76-100%,total,0,50â€“99 employees,C0400.05,597
 Proportion of customers on long term price contract: 76-100%,total,0,100+ employees,C0400.05,525
 Proportion of customers on long term price contract: 76-100%,"Agriculture, forestry, & fishing",1,total,C0400.05,897
 Proportion of customers on long term price contract: 76-100%,Agriculture,2,total,C0400.05,495
@@ -469,9 +469,9 @@ Proportion of customers on long term price contract: 76-100%,Health care & socia
 Proportion of customers on long term price contract: 76-100%,Arts & recreation services,1,total,C0400.05,48
 Proportion of customers on long term price contract: 76-100%,Other services,1,total,C0400.05,249
 Proportion of customers on long term price contract: 76-100%,total,0,total,C0400.05,8682
-Proportion of customers returning for repeat business: zero,total,0,6–19 employees,C0500.01,1008
-Proportion of customers returning for repeat business: zero,total,0,20–49 employees,C0500.01,165
-Proportion of customers returning for repeat business: zero,total,0,50–99 employees,C0500.01,54
+Proportion of customers returning for repeat business: zero,total,0,6â€“19 employees,C0500.01,1008
+Proportion of customers returning for repeat business: zero,total,0,20â€“49 employees,C0500.01,165
+Proportion of customers returning for repeat business: zero,total,0,50â€“99 employees,C0500.01,54
 Proportion of customers returning for repeat business: zero,total,0,100+ employees,C0500.01,24
 Proportion of customers returning for repeat business: zero,"Agriculture, forestry, & fishing",1,total,C0500.01,252
 Proportion of customers returning for repeat business: zero,Agriculture,2,total,C0500.01,186
@@ -516,9 +516,9 @@ Proportion of customers returning for repeat business: zero,Health care & social
 Proportion of customers returning for repeat business: zero,Arts & recreation services,1,total,C0500.01,15
 Proportion of customers returning for repeat business: zero,Other services,1,total,C0500.01,0
 Proportion of customers returning for repeat business: zero,total,0,total,C0500.01,1254
-Proportion of customers returning for repeat business: 1-25%,total,0,6–19 employees,C0500.02,2331
-Proportion of customers returning for repeat business: 1-25%,total,0,20–49 employees,C0500.02,459
-Proportion of customers returning for repeat business: 1-25%,total,0,50–99 employees,C0500.02,147
+Proportion of customers returning for repeat business: 1-25%,total,0,6â€“19 employees,C0500.02,2331
+Proportion of customers returning for repeat business: 1-25%,total,0,20â€“49 employees,C0500.02,459
+Proportion of customers returning for repeat business: 1-25%,total,0,50â€“99 employees,C0500.02,147
 Proportion of customers returning for repeat business: 1-25%,total,0,100+ employees,C0500.02,96
 Proportion of customers returning for repeat business: 1-25%,"Agriculture, forestry, & fishing",1,total,C0500.02,57
 Proportion of customers returning for repeat business: 1-25%,Agriculture,2,total,C0500.02,27
@@ -563,9 +563,9 @@ Proportion of customers returning for repeat business: 1-25%,Health care & socia
 Proportion of customers returning for repeat business: 1-25%,Arts & recreation services,1,total,C0500.02,39
 Proportion of customers returning for repeat business: 1-25%,Other services,1,total,C0500.02,78
 Proportion of customers returning for repeat business: 1-25%,total,0,total,C0500.02,3036
-Proportion of customers returning for repeat business: 26-50%,total,0,6–19 employees,C0500.03,5154
-Proportion of customers returning for repeat business: 26-50%,total,0,20–49 employees,C0500.03,1017
-Proportion of customers returning for repeat business: 26-50%,total,0,50–99 employees,C0500.03,222
+Proportion of customers returning for repeat business: 26-50%,total,0,6â€“19 employees,C0500.03,5154
+Proportion of customers returning for repeat business: 26-50%,total,0,20â€“49 employees,C0500.03,1017
+Proportion of customers returning for repeat business: 26-50%,total,0,50â€“99 employees,C0500.03,222
 Proportion of customers returning for repeat business: 26-50%,total,0,100+ employees,C0500.03,135
 Proportion of customers returning for repeat business: 26-50%,"Agriculture, forestry, & fishing",1,total,C0500.03,75
 Proportion of customers returning for repeat business: 26-50%,Agriculture,2,total,C0500.03,51
@@ -610,9 +610,9 @@ Proportion of customers returning for repeat business: 26-50%,Health care & soci
 Proportion of customers returning for repeat business: 26-50%,Arts & recreation services,1,total,C0500.03,102
 Proportion of customers returning for repeat business: 26-50%,Other services,1,total,C0500.03,69
 Proportion of customers returning for repeat business: 26-50%,total,0,total,C0500.03,6534
-Proportion of customers returning for repeat business: 51-75%,total,0,6–19 employees,C0500.04,8898
-Proportion of customers returning for repeat business: 51-75%,total,0,20–49 employees,C0500.04,2151
-Proportion of customers returning for repeat business: 51-75%,total,0,50–99 employees,C0500.04,498
+Proportion of customers returning for repeat business: 51-75%,total,0,6â€“19 employees,C0500.04,8898
+Proportion of customers returning for repeat business: 51-75%,total,0,20â€“49 employees,C0500.04,2151
+Proportion of customers returning for repeat business: 51-75%,total,0,50â€“99 employees,C0500.04,498
 Proportion of customers returning for repeat business: 51-75%,total,0,100+ employees,C0500.04,399
 Proportion of customers returning for repeat business: 51-75%,"Agriculture, forestry, & fishing",1,total,C0500.04,207
 Proportion of customers returning for repeat business: 51-75%,Agriculture,2,total,C0500.04,102
@@ -657,9 +657,9 @@ Proportion of customers returning for repeat business: 51-75%,Health care & soci
 Proportion of customers returning for repeat business: 51-75%,Arts & recreation services,1,total,C0500.04,171
 Proportion of customers returning for repeat business: 51-75%,Other services,1,total,C0500.04,294
 Proportion of customers returning for repeat business: 51-75%,total,0,total,C0500.04,11952
-Proportion of customers returning for repeat business: 76-100%,total,0,6–19 employees,C0500.05,18027
-Proportion of customers returning for repeat business: 76-100%,total,0,20–49 employees,C0500.05,4491
-Proportion of customers returning for repeat business: 76-100%,total,0,50–99 employees,C0500.05,1518
+Proportion of customers returning for repeat business: 76-100%,total,0,6â€“19 employees,C0500.05,18027
+Proportion of customers returning for repeat business: 76-100%,total,0,20â€“49 employees,C0500.05,4491
+Proportion of customers returning for repeat business: 76-100%,total,0,50â€“99 employees,C0500.05,1518
 Proportion of customers returning for repeat business: 76-100%,total,0,100+ employees,C0500.05,1263
 Proportion of customers returning for repeat business: 76-100%,"Agriculture, forestry, & fishing",1,total,C0500.05,3150
 Proportion of customers returning for repeat business: 76-100%,Agriculture,2,total,C0500.05,2076
@@ -704,9 +704,9 @@ Proportion of customers returning for repeat business: 76-100%,Health care & soc
 Proportion of customers returning for repeat business: 76-100%,Arts & recreation services,1,total,C0500.05,207
 Proportion of customers returning for repeat business: 76-100%,Other services,1,total,C0500.05,954
 Proportion of customers returning for repeat business: 76-100%,total,0,total,C0500.05,25299
-Who reviews and sets price: this business,total,0,6–19 employees,C0700.01,28728
-Who reviews and sets price: this business,total,0,20–49 employees,C0700.01,6540
-Who reviews and sets price: this business,total,0,50–99 employees,C0700.01,1827
+Who reviews and sets price: this business,total,0,6â€“19 employees,C0700.01,28728
+Who reviews and sets price: this business,total,0,20â€“49 employees,C0700.01,6540
+Who reviews and sets price: this business,total,0,50â€“99 employees,C0700.01,1827
 Who reviews and sets price: this business,total,0,100+ employees,C0700.01,1398
 Who reviews and sets price: this business,"Agriculture, forestry, & fishing",1,total,C0700.01,1827
 Who reviews and sets price: this business,Agriculture,2,total,C0700.01,846
@@ -751,9 +751,9 @@ Who reviews and sets price: this business,Health care & social assistance,1,tota
 Who reviews and sets price: this business,Arts & recreation services,1,total,C0700.01,480
 Who reviews and sets price: this business,Other services,1,total,C0700.01,1086
 Who reviews and sets price: this business,total,0,total,C0700.01,38493
-Who reviews and sets price: parent business,total,0,6–19 employees,C0700.02,2433
-Who reviews and sets price: parent business,total,0,20–49 employees,C0700.02,738
-Who reviews and sets price: parent business,total,0,50–99 employees,C0700.02,297
+Who reviews and sets price: parent business,total,0,6â€“19 employees,C0700.02,2433
+Who reviews and sets price: parent business,total,0,20â€“49 employees,C0700.02,738
+Who reviews and sets price: parent business,total,0,50â€“99 employees,C0700.02,297
 Who reviews and sets price: parent business,total,0,100+ employees,C0700.02,282
 Who reviews and sets price: parent business,"Agriculture, forestry, & fishing",1,total,C0700.02,297
 Who reviews and sets price: parent business,Agriculture,2,total,C0700.02,222
@@ -798,9 +798,9 @@ Who reviews and sets price: parent business,Health care & social assistance,1,to
 Who reviews and sets price: parent business,Arts & recreation services,1,total,C0700.02,45
 Who reviews and sets price: parent business,Other services,1,total,C0700.02,57
 Who reviews and sets price: parent business,total,0,total,C0700.02,3750
-Who reviews and sets the price: other,total,0,6–19 employees,C0700.03,4287
-Who reviews and sets the price: other,total,0,20–49 employees,C0700.03,1014
-Who reviews and sets the price: other,total,0,50–99 employees,C0700.03,324
+Who reviews and sets the price: other,total,0,6â€“19 employees,C0700.03,4287
+Who reviews and sets the price: other,total,0,20â€“49 employees,C0700.03,1014
+Who reviews and sets the price: other,total,0,50â€“99 employees,C0700.03,324
 Who reviews and sets the price: other,total,0,100+ employees,C0700.03,237
 Who reviews and sets the price: other,"Agriculture, forestry, & fishing",1,total,C0700.03,1641
 Who reviews and sets the price: other,Agriculture,2,total,C0700.03,1401
@@ -845,9 +845,9 @@ Who reviews and sets the price: other,Health care & social assistance,1,total,C0
 Who reviews and sets the price: other,Arts & recreation services,1,total,C0700.03,12
 Who reviews and sets the price: other,Other services,1,total,C0700.03,249
 Who reviews and sets the price: other,total,0,total,C0700.03,5862
-"When does business typically review price: regular intervals, regardless of specific events",total,0,6–19 employees,C0800.01,7365
-"When does business typically review price: regular intervals, regardless of specific events",total,0,20–49 employees,C0800.01,1869
-"When does business typically review price: regular intervals, regardless of specific events",total,0,50–99 employees,C0800.01,528
+"When does business typically review price: regular intervals, regardless of specific events",total,0,6â€“19 employees,C0800.01,7365
+"When does business typically review price: regular intervals, regardless of specific events",total,0,20â€“49 employees,C0800.01,1869
+"When does business typically review price: regular intervals, regardless of specific events",total,0,50â€“99 employees,C0800.01,528
 "When does business typically review price: regular intervals, regardless of specific events",total,0,100+ employees,C0800.01,474
 "When does business typically review price: regular intervals, regardless of specific events","Agriculture, forestry, & fishing",1,total,C0800.01,408
 "When does business typically review price: regular intervals, regardless of specific events",Agriculture,2,total,C0800.01,168
@@ -892,9 +892,9 @@ Who reviews and sets the price: other,total,0,total,C0700.03,5862
 "When does business typically review price: regular intervals, regardless of specific events",Arts & recreation services,1,total,C0800.01,201
 "When does business typically review price: regular intervals, regardless of specific events",Other services,1,total,C0800.01,234
 "When does business typically review price: regular intervals, regardless of specific events",total,0,total,C0800.01,10236
-When does business typically review price: in response to specific events only,total,0,6–19 employees,C0800.02,3882
-When does business typically review price: in response to specific events only,total,0,20–49 employees,C0800.02,717
-When does business typically review price: in response to specific events only,total,0,50–99 employees,C0800.02,186
+When does business typically review price: in response to specific events only,total,0,6â€“19 employees,C0800.02,3882
+When does business typically review price: in response to specific events only,total,0,20â€“49 employees,C0800.02,717
+When does business typically review price: in response to specific events only,total,0,50â€“99 employees,C0800.02,186
 When does business typically review price: in response to specific events only,total,0,100+ employees,C0800.02,102
 When does business typically review price: in response to specific events only,"Agriculture, forestry, & fishing",1,total,C0800.02,276
 When does business typically review price: in response to specific events only,Agriculture,2,total,C0800.02,159
@@ -939,9 +939,9 @@ When does business typically review price: in response to specific events only,H
 When does business typically review price: in response to specific events only,Arts & recreation services,1,total,C0800.02,54
 When does business typically review price: in response to specific events only,Other services,1,total,C0800.02,138
 When does business typically review price: in response to specific events only,total,0,total,C0800.02,4890
-When does business typically review price: regular intervals and in response to specific events,total,0,6–19 employees,C0800.03,17250
-When does business typically review price: regular intervals and in response to specific events,total,0,20–49 employees,C0800.03,3906
-When does business typically review price: regular intervals and in response to specific events,total,0,50–99 employees,C0800.03,1101
+When does business typically review price: regular intervals and in response to specific events,total,0,6â€“19 employees,C0800.03,17250
+When does business typically review price: regular intervals and in response to specific events,total,0,20â€“49 employees,C0800.03,3906
+When does business typically review price: regular intervals and in response to specific events,total,0,50â€“99 employees,C0800.03,1101
 When does business typically review price: regular intervals and in response to specific events,total,0,100+ employees,C0800.03,816
 When does business typically review price: regular intervals and in response to specific events,"Agriculture, forestry, & fishing",1,total,C0800.03,1083
 When does business typically review price: regular intervals and in response to specific events,Agriculture,2,total,C0800.03,492
@@ -986,9 +986,9 @@ When does business typically review price: regular intervals and in response to 
 When does business typically review price: regular intervals and in response to specific events,Arts & recreation services,1,total,C0800.03,216
 When does business typically review price: regular intervals and in response to specific events,Other services,1,total,C0800.03,714
 When does business typically review price: regular intervals and in response to specific events,total,0,total,C0800.03,23076
-Frequency of price review: daily,total,0,6–19 employees,C0900.01,1104
-Frequency of price review: daily,total,0,20–49 employees,C0900.01,366
-Frequency of price review: daily,total,0,50–99 employees,C0900.01,108
+Frequency of price review: daily,total,0,6â€“19 employees,C0900.01,1104
+Frequency of price review: daily,total,0,20â€“49 employees,C0900.01,366
+Frequency of price review: daily,total,0,50â€“99 employees,C0900.01,108
 Frequency of price review: daily,total,0,100+ employees,C0900.01,120
 Frequency of price review: daily,"Agriculture, forestry, & fishing",1,total,C0900.01,84
 Frequency of price review: daily,Agriculture,2,total,C0900.01,42
@@ -1033,9 +1033,9 @@ Frequency of price review: daily,Health care & social assistance,1,total,C0900.0
 Frequency of price review: daily,Arts & recreation services,1,total,C0900.01,0
 Frequency of price review: daily,Other services,1,total,C0900.01,45
 Frequency of price review: daily,total,0,total,C0900.01,1698
-Frequency of price review: weekly,total,0,6–19 employees,C0900.02,1500
-Frequency of price review: weekly,total,0,20–49 employees,C0900.02,303
-Frequency of price review: weekly,total,0,50–99 employees,C0900.02,120
+Frequency of price review: weekly,total,0,6â€“19 employees,C0900.02,1500
+Frequency of price review: weekly,total,0,20â€“49 employees,C0900.02,303
+Frequency of price review: weekly,total,0,50â€“99 employees,C0900.02,120
 Frequency of price review: weekly,total,0,100+ employees,C0900.02,99
 Frequency of price review: weekly,"Agriculture, forestry, & fishing",1,total,C0900.02,180
 Frequency of price review: weekly,Agriculture,2,total,C0900.02,156
@@ -1080,9 +1080,9 @@ Frequency of price review: weekly,Health care & social assistance,1,total,C0900.
 Frequency of price review: weekly,Arts & recreation services,1,total,C0900.02,0
 Frequency of price review: weekly,Other services,1,total,C0900.02,36
 Frequency of price review: weekly,total,0,total,C0900.02,2025
-Frequency of price review: monthly,total,0,6–19 employees,C0900.03,3786
-Frequency of price review: monthly,total,0,20–49 employees,C0900.03,972
-Frequency of price review: monthly,total,0,50–99 employees,C0900.03,297
+Frequency of price review: monthly,total,0,6â€“19 employees,C0900.03,3786
+Frequency of price review: monthly,total,0,20â€“49 employees,C0900.03,972
+Frequency of price review: monthly,total,0,50â€“99 employees,C0900.03,297
 Frequency of price review: monthly,total,0,100+ employees,C0900.03,213
 Frequency of price review: monthly,"Agriculture, forestry, & fishing",1,total,C0900.03,168
 Frequency of price review: monthly,Agriculture,2,total,C0900.03,42
@@ -1127,9 +1127,9 @@ Frequency of price review: monthly,Health care & social assistance,1,total,C0900
 Frequency of price review: monthly,Arts & recreation services,1,total,C0900.03,18
 Frequency of price review: monthly,Other services,1,total,C0900.03,120
 Frequency of price review: monthly,total,0,total,C0900.03,5268
-Frequency of price review: quarterly,total,0,6–19 employees,C0900.04,5388
-Frequency of price review: quarterly,total,0,20–49 employees,C0900.04,1038
-Frequency of price review: quarterly,total,0,50–99 employees,C0900.04,300
+Frequency of price review: quarterly,total,0,6â€“19 employees,C0900.04,5388
+Frequency of price review: quarterly,total,0,20â€“49 employees,C0900.04,1038
+Frequency of price review: quarterly,total,0,50â€“99 employees,C0900.04,300
 Frequency of price review: quarterly,total,0,100+ employees,C0900.04,246
 Frequency of price review: quarterly,"Agriculture, forestry, & fishing",1,total,C0900.04,216
 Frequency of price review: quarterly,Agriculture,2,total,C0900.04,90
@@ -1174,9 +1174,9 @@ Frequency of price review: quarterly,Health care & social assistance,1,total,C09
 Frequency of price review: quarterly,Arts & recreation services,1,total,C0900.04,69
 Frequency of price review: quarterly,Other services,1,total,C0900.04,156
 Frequency of price review: quarterly,total,0,total,C0900.04,6972
-Frequency of price review: half-yearly,total,0,6–19 employees,C0900.05,3552
-Frequency of price review: half-yearly,total,0,20–49 employees,C0900.05,840
-Frequency of price review: half-yearly,total,0,50–99 employees,C0900.05,228
+Frequency of price review: half-yearly,total,0,6â€“19 employees,C0900.05,3552
+Frequency of price review: half-yearly,total,0,20â€“49 employees,C0900.05,840
+Frequency of price review: half-yearly,total,0,50â€“99 employees,C0900.05,228
 Frequency of price review: half-yearly,total,0,100+ employees,C0900.05,129
 Frequency of price review: half-yearly,"Agriculture, forestry, & fishing",1,total,C0900.05,117
 Frequency of price review: half-yearly,Agriculture,2,total,C0900.05,36
@@ -1221,9 +1221,9 @@ Frequency of price review: half-yearly,Health care & social assistance,1,total,C
 Frequency of price review: half-yearly,Arts & recreation services,1,total,C0900.05,96
 Frequency of price review: half-yearly,Other services,1,total,C0900.05,144
 Frequency of price review: half-yearly,total,0,total,C0900.05,4752
-Frequency of price review: annually,total,0,6–19 employees,C0900.06,8631
-Frequency of price review: annually,total,0,20–49 employees,C0900.06,2034
-Frequency of price review: annually,total,0,50–99 employees,C0900.06,555
+Frequency of price review: annually,total,0,6â€“19 employees,C0900.06,8631
+Frequency of price review: annually,total,0,20â€“49 employees,C0900.06,2034
+Frequency of price review: annually,total,0,50â€“99 employees,C0900.06,555
 Frequency of price review: annually,total,0,100+ employees,C0900.06,471
 Frequency of price review: annually,"Agriculture, forestry, & fishing",1,total,C0900.06,735
 Frequency of price review: annually,Agriculture,2,total,C0900.06,312
@@ -1268,9 +1268,9 @@ Frequency of price review: annually,Health care & social assistance,1,total,C090
 Frequency of price review: annually,Arts & recreation services,1,total,C0900.06,162
 Frequency of price review: annually,Other services,1,total,C0900.06,426
 Frequency of price review: annually,total,0,total,C0900.06,11694
-Frequency of price review: less than once a year,total,0,6–19 employees,C0900.07,1257
-Frequency of price review: less than once a year,total,0,20–49 employees,C0900.07,324
-Frequency of price review: less than once a year,total,0,50–99 employees,C0900.07,63
+Frequency of price review: less than once a year,total,0,6â€“19 employees,C0900.07,1257
+Frequency of price review: less than once a year,total,0,20â€“49 employees,C0900.07,324
+Frequency of price review: less than once a year,total,0,50â€“99 employees,C0900.07,63
 Frequency of price review: less than once a year,total,0,100+ employees,C0900.07,48
 Frequency of price review: less than once a year,"Agriculture, forestry, & fishing",1,total,C0900.07,72
 Frequency of price review: less than once a year,Agriculture,2,total,C0900.07,0
@@ -1315,9 +1315,9 @@ Frequency of price review: less than once a year,Health care & social assistance
 Frequency of price review: less than once a year,Arts & recreation services,1,total,C0900.07,69
 Frequency of price review: less than once a year,Other services,1,total,C0900.07,39
 Frequency of price review: less than once a year,total,0,total,C0900.07,1689
-Important reasons the business does not review prices more frequently: cost managerial staff time,total,0,6–19 employees,C1001,3861
-Important reasons the business does not review prices more frequently: cost managerial staff time,total,0,20–49 employees,C1001,897
-Important reasons the business does not review prices more frequently: cost managerial staff time,total,0,50–99 employees,C1001,273
+Important reasons the business does not review prices more frequently: cost managerial staff time,total,0,6â€“19 employees,C1001,3861
+Important reasons the business does not review prices more frequently: cost managerial staff time,total,0,20â€“49 employees,C1001,897
+Important reasons the business does not review prices more frequently: cost managerial staff time,total,0,50â€“99 employees,C1001,273
 Important reasons the business does not review prices more frequently: cost managerial staff time,total,0,100+ employees,C1001,228
 Important reasons the business does not review prices more frequently: cost managerial staff time,"Agriculture, forestry, & fishing",1,total,C1001,180
 Important reasons the business does not review prices more frequently: cost managerial staff time,Agriculture,2,total,C1001,117
@@ -1362,9 +1362,9 @@ Important reasons the business does not review prices more frequently: cost mana
 Important reasons the business does not review prices more frequently: cost managerial staff time,Arts & recreation services,1,total,C1001,18
 Important reasons the business does not review prices more frequently: cost managerial staff time,Other services,1,total,C1001,96
 Important reasons the business does not review prices more frequently: cost managerial staff time,total,0,total,C1001,5259
-Important reasons the business does not review prices more frequently: cost non-managerial staff time,total,0,6–19 employees,C1002,1662
-Important reasons the business does not review prices more frequently: cost non-managerial staff time,total,0,20–49 employees,C1002,369
-Important reasons the business does not review prices more frequently: cost non-managerial staff time,total,0,50–99 employees,C1002,153
+Important reasons the business does not review prices more frequently: cost non-managerial staff time,total,0,6â€“19 employees,C1002,1662
+Important reasons the business does not review prices more frequently: cost non-managerial staff time,total,0,20â€“49 employees,C1002,369
+Important reasons the business does not review prices more frequently: cost non-managerial staff time,total,0,50â€“99 employees,C1002,153
 Important reasons the business does not review prices more frequently: cost non-managerial staff time,total,0,100+ employees,C1002,147
 Important reasons the business does not review prices more frequently: cost non-managerial staff time,"Agriculture, forestry, & fishing",1,total,C1002,54
 Important reasons the business does not review prices more frequently: cost non-managerial staff time,Agriculture,2,total,C1002,24
@@ -1409,9 +1409,9 @@ Important reasons the business does not review prices more frequently: cost non-
 Important reasons the business does not review prices more frequently: cost non-managerial staff time,Arts & recreation services,1,total,C1002,0
 Important reasons the business does not review prices more frequently: cost non-managerial staff time,Other services,1,total,C1002,6
 Important reasons the business does not review prices more frequently: cost non-managerial staff time,total,0,total,C1002,2334
-Important reasons the business does not review prices more frequently: other costs of review process,total,0,6–19 employees,C1003,2322
-Important reasons the business does not review prices more frequently: other costs of review process,total,0,20–49 employees,C1003,495
-Important reasons the business does not review prices more frequently: other costs of review process,total,0,50–99 employees,C1003,153
+Important reasons the business does not review prices more frequently: other costs of review process,total,0,6â€“19 employees,C1003,2322
+Important reasons the business does not review prices more frequently: other costs of review process,total,0,20â€“49 employees,C1003,495
+Important reasons the business does not review prices more frequently: other costs of review process,total,0,50â€“99 employees,C1003,153
 Important reasons the business does not review prices more frequently: other costs of review process,total,0,100+ employees,C1003,138
 Important reasons the business does not review prices more frequently: other costs of review process,"Agriculture, forestry, & fishing",1,total,C1003,90
 Important reasons the business does not review prices more frequently: other costs of review process,Agriculture,2,total,C1003,63
@@ -1456,9 +1456,9 @@ Important reasons the business does not review prices more frequently: other cos
 Important reasons the business does not review prices more frequently: other costs of review process,Arts & recreation services,1,total,C1003,27
 Important reasons the business does not review prices more frequently: other costs of review process,Other services,1,total,C1003,39
 Important reasons the business does not review prices more frequently: other costs of review process,total,0,total,C1003,3111
-Important reasons the business does not review prices more frequently: factors affecting pricing decisions do not change more frequently,total,0,6–19 employees,C1004,10788
-Important reasons the business does not review prices more frequently: factors affecting pricing decisions do not change more frequently,total,0,20–49 employees,C1004,2577
-Important reasons the business does not review prices more frequently: factors affecting pricing decisions do not change more frequently,total,0,50–99 employees,C1004,744
+Important reasons the business does not review prices more frequently: factors affecting pricing decisions do not change more frequently,total,0,6â€“19 employees,C1004,10788
+Important reasons the business does not review prices more frequently: factors affecting pricing decisions do not change more frequently,total,0,20â€“49 employees,C1004,2577
+Important reasons the business does not review prices more frequently: factors affecting pricing decisions do not change more frequently,total,0,50â€“99 employees,C1004,744
 Important reasons the business does not review prices more frequently: factors affecting pricing decisions do not change more frequently,total,0,100+ employees,C1004,585
 Important reasons the business does not review prices more frequently: factors affecting pricing decisions do not change more frequently,"Agriculture, forestry, & fishing",1,total,C1004,795
 Important reasons the business does not review prices more frequently: factors affecting pricing decisions do not change more frequently,Agriculture,2,total,C1004,375
@@ -1503,9 +1503,9 @@ Important reasons the business does not review prices more frequently: factors a
 Important reasons the business does not review prices more frequently: factors affecting pricing decisions do not change more frequently,Arts & recreation services,1,total,C1004,138
 Important reasons the business does not review prices more frequently: factors affecting pricing decisions do not change more frequently,Other services,1,total,C1004,561
 Important reasons the business does not review prices more frequently: factors affecting pricing decisions do not change more frequently,total,0,total,C1004,14694
-Important reasons the business does not review prices more frequently: information used to inform pricing decisions is not available frequently,total,0,6–19 employees,C1005,1995
-Important reasons the business does not review prices more frequently: information used to inform pricing decisions is not available frequently,total,0,20–49 employees,C1005,474
-Important reasons the business does not review prices more frequently: information used to inform pricing decisions is not available frequently,total,0,50–99 employees,C1005,186
+Important reasons the business does not review prices more frequently: information used to inform pricing decisions is not available frequently,total,0,6â€“19 employees,C1005,1995
+Important reasons the business does not review prices more frequently: information used to inform pricing decisions is not available frequently,total,0,20â€“49 employees,C1005,474
+Important reasons the business does not review prices more frequently: information used to inform pricing decisions is not available frequently,total,0,50â€“99 employees,C1005,186
 Important reasons the business does not review prices more frequently: information used to inform pricing decisions is not available frequently,total,0,100+ employees,C1005,132
 Important reasons the business does not review prices more frequently: information used to inform pricing decisions is not available frequently,"Agriculture, forestry, & fishing",1,total,C1005,147
 Important reasons the business does not review prices more frequently: information used to inform pricing decisions is not available frequently,Agriculture,2,total,C1005,42
@@ -1550,9 +1550,9 @@ Important reasons the business does not review prices more frequently: informati
 Important reasons the business does not review prices more frequently: information used to inform pricing decisions is not available frequently,Arts & recreation services,1,total,C1005,15
 Important reasons the business does not review prices more frequently: information used to inform pricing decisions is not available frequently,Other services,1,total,C1005,45
 Important reasons the business does not review prices more frequently: information used to inform pricing decisions is not available frequently,total,0,total,C1005,2787
-Important reasons the business does not review prices more frequently: would not change prices more frequently,total,0,6–19 employees,C1006,9849
-Important reasons the business does not review prices more frequently: would not change prices more frequently,total,0,20–49 employees,C1006,2112
-Important reasons the business does not review prices more frequently: would not change prices more frequently,total,0,50–99 employees,C1006,642
+Important reasons the business does not review prices more frequently: would not change prices more frequently,total,0,6â€“19 employees,C1006,9849
+Important reasons the business does not review prices more frequently: would not change prices more frequently,total,0,20â€“49 employees,C1006,2112
+Important reasons the business does not review prices more frequently: would not change prices more frequently,total,0,50â€“99 employees,C1006,642
 Important reasons the business does not review prices more frequently: would not change prices more frequently,total,0,100+ employees,C1006,468
 Important reasons the business does not review prices more frequently: would not change prices more frequently,"Agriculture, forestry, & fishing",1,total,C1006,498
 Important reasons the business does not review prices more frequently: would not change prices more frequently,Agriculture,2,total,C1006,222
@@ -1597,9 +1597,9 @@ Important reasons the business does not review prices more frequently: would not
 Important reasons the business does not review prices more frequently: would not change prices more frequently,Arts & recreation services,1,total,C1006,222
 Important reasons the business does not review prices more frequently: would not change prices more frequently,Other services,1,total,C1006,402
 Important reasons the business does not review prices more frequently: would not change prices more frequently,total,0,total,C1006,13068
-Important reasons the business does not review prices more frequently: other,total,0,6–19 employees,C1007,2691
-Important reasons the business does not review prices more frequently: other,total,0,20–49 employees,C1007,942
-Important reasons the business does not review prices more frequently: other,total,0,50–99 employees,C1007,279
+Important reasons the business does not review prices more frequently: other,total,0,6â€“19 employees,C1007,2691
+Important reasons the business does not review prices more frequently: other,total,0,20â€“49 employees,C1007,942
+Important reasons the business does not review prices more frequently: other,total,0,50â€“99 employees,C1007,279
 Important reasons the business does not review prices more frequently: other,total,0,100+ employees,C1007,252
 Important reasons the business does not review prices more frequently: other,"Agriculture, forestry, & fishing",1,total,C1007,219
 Important reasons the business does not review prices more frequently: other,Agriculture,2,total,C1007,132
@@ -1644,9 +1644,9 @@ Important reasons the business does not review prices more frequently: other,Hea
 Important reasons the business does not review prices more frequently: other,Arts & recreation services,1,total,C1007,99
 Important reasons the business does not review prices more frequently: other,Other services,1,total,C1007,39
 Important reasons the business does not review prices more frequently: other,total,0,total,C1007,4164
-Important reasons the business does not review prices more frequently: don't know,total,0,6–19 employees,C1008,4086
-Important reasons the business does not review prices more frequently: don't know,total,0,20–49 employees,C1008,723
-Important reasons the business does not review prices more frequently: don't know,total,0,50–99 employees,C1008,168
+Important reasons the business does not review prices more frequently: don't know,total,0,6â€“19 employees,C1008,4086
+Important reasons the business does not review prices more frequently: don't know,total,0,20â€“49 employees,C1008,723
+Important reasons the business does not review prices more frequently: don't know,total,0,50â€“99 employees,C1008,168
 Important reasons the business does not review prices more frequently: don't know,total,0,100+ employees,C1008,126
 Important reasons the business does not review prices more frequently: don't know,"Agriculture, forestry, & fishing",1,total,C1008,276
 Important reasons the business does not review prices more frequently: don't know,Agriculture,2,total,C1008,114
@@ -1691,9 +1691,9 @@ Important reasons the business does not review prices more frequently: don't kno
 Important reasons the business does not review prices more frequently: don't know,Arts & recreation services,1,total,C1008,21
 Important reasons the business does not review prices more frequently: don't know,Other services,1,total,C1008,120
 Important reasons the business does not review prices more frequently: don't know,total,0,total,C1008,5106
-Frequency of price changes over last financial year: daily,total,0,6–19 employees,C1100.01,288
-Frequency of price changes over last financial year: daily,total,0,20–49 employees,C1100.01,198
-Frequency of price changes over last financial year: daily,total,0,50–99 employees,C1100.01,75
+Frequency of price changes over last financial year: daily,total,0,6â€“19 employees,C1100.01,288
+Frequency of price changes over last financial year: daily,total,0,20â€“49 employees,C1100.01,198
+Frequency of price changes over last financial year: daily,total,0,50â€“99 employees,C1100.01,75
 Frequency of price changes over last financial year: daily,total,0,100+ employees,C1100.01,84
 Frequency of price changes over last financial year: daily,"Agriculture, forestry, & fishing",1,total,C1100.01,18
 Frequency of price changes over last financial year: daily,Agriculture,2,total,C1100.01,3
@@ -1738,9 +1738,9 @@ Frequency of price changes over last financial year: daily,Health care & social 
 Frequency of price changes over last financial year: daily,Arts & recreation services,1,total,C1100.01,0
 Frequency of price changes over last financial year: daily,Other services,1,total,C1100.01,15
 Frequency of price changes over last financial year: daily,total,0,total,C1100.01,648
-Frequency of price changes over last financial year: weekly,total,0,6–19 employees,C1100.02,855
-Frequency of price changes over last financial year: weekly,total,0,20–49 employees,C1100.02,207
-Frequency of price changes over last financial year: weekly,total,0,50–99 employees,C1100.02,81
+Frequency of price changes over last financial year: weekly,total,0,6â€“19 employees,C1100.02,855
+Frequency of price changes over last financial year: weekly,total,0,20â€“49 employees,C1100.02,207
+Frequency of price changes over last financial year: weekly,total,0,50â€“99 employees,C1100.02,81
 Frequency of price changes over last financial year: weekly,total,0,100+ employees,C1100.02,108
 Frequency of price changes over last financial year: weekly,"Agriculture, forestry, & fishing",1,total,C1100.02,108
 Frequency of price changes over last financial year: weekly,Agriculture,2,total,C1100.02,99
@@ -1785,9 +1785,9 @@ Frequency of price changes over last financial year: weekly,Health care & social
 Frequency of price changes over last financial year: weekly,Arts & recreation services,1,total,C1100.02,0
 Frequency of price changes over last financial year: weekly,Other services,1,total,C1100.02,18
 Frequency of price changes over last financial year: weekly,total,0,total,C1100.02,1248
-Frequency of price changes over last financial year: monthly,total,0,6–19 employees,C1100.03,2448
-Frequency of price changes over last financial year: monthly,total,0,20–49 employees,C1100.03,579
-Frequency of price changes over last financial year: monthly,total,0,50–99 employees,C1100.03,159
+Frequency of price changes over last financial year: monthly,total,0,6â€“19 employees,C1100.03,2448
+Frequency of price changes over last financial year: monthly,total,0,20â€“49 employees,C1100.03,579
+Frequency of price changes over last financial year: monthly,total,0,50â€“99 employees,C1100.03,159
 Frequency of price changes over last financial year: monthly,total,0,100+ employees,C1100.03,132
 Frequency of price changes over last financial year: monthly,"Agriculture, forestry, & fishing",1,total,C1100.03,162
 Frequency of price changes over last financial year: monthly,Agriculture,2,total,C1100.03,90
@@ -1832,9 +1832,9 @@ Frequency of price changes over last financial year: monthly,Health care & socia
 Frequency of price changes over last financial year: monthly,Arts & recreation services,1,total,C1100.03,0
 Frequency of price changes over last financial year: monthly,Other services,1,total,C1100.03,69
 Frequency of price changes over last financial year: monthly,total,0,total,C1100.03,3321
-Frequency of price changes over last financial year: quarterly,total,0,6–19 employees,C1100.04,4296
-Frequency of price changes over last financial year: quarterly,total,0,20–49 employees,C1100.04,1128
-Frequency of price changes over last financial year: quarterly,total,0,50–99 employees,C1100.04,315
+Frequency of price changes over last financial year: quarterly,total,0,6â€“19 employees,C1100.04,4296
+Frequency of price changes over last financial year: quarterly,total,0,20â€“49 employees,C1100.04,1128
+Frequency of price changes over last financial year: quarterly,total,0,50â€“99 employees,C1100.04,315
 Frequency of price changes over last financial year: quarterly,total,0,100+ employees,C1100.04,195
 Frequency of price changes over last financial year: quarterly,"Agriculture, forestry, & fishing",1,total,C1100.04,174
 Frequency of price changes over last financial year: quarterly,Agriculture,2,total,C1100.04,45
@@ -1879,9 +1879,9 @@ Frequency of price changes over last financial year: quarterly,Health care & soc
 Frequency of price changes over last financial year: quarterly,Arts & recreation services,1,total,C1100.04,3
 Frequency of price changes over last financial year: quarterly,Other services,1,total,C1100.04,162
 Frequency of price changes over last financial year: quarterly,total,0,total,C1100.04,5934
-Frequency of price changes over last financial year: half-yearly,total,0,6–19 employees,C1100.05,5640
-Frequency of price changes over last financial year: half-yearly,total,0,20–49 employees,C1100.05,1221
-Frequency of price changes over last financial year: half-yearly,total,0,50–99 employees,C1100.05,354
+Frequency of price changes over last financial year: half-yearly,total,0,6â€“19 employees,C1100.05,5640
+Frequency of price changes over last financial year: half-yearly,total,0,20â€“49 employees,C1100.05,1221
+Frequency of price changes over last financial year: half-yearly,total,0,50â€“99 employees,C1100.05,354
 Frequency of price changes over last financial year: half-yearly,total,0,100+ employees,C1100.05,234
 Frequency of price changes over last financial year: half-yearly,"Agriculture, forestry, & fishing",1,total,C1100.05,225
 Frequency of price changes over last financial year: half-yearly,Agriculture,2,total,C1100.05,87
@@ -1926,9 +1926,9 @@ Frequency of price changes over last financial year: half-yearly,Health care & s
 Frequency of price changes over last financial year: half-yearly,Arts & recreation services,1,total,C1100.05,57
 Frequency of price changes over last financial year: half-yearly,Other services,1,total,C1100.05,192
 Frequency of price changes over last financial year: half-yearly,total,0,total,C1100.05,7449
-Frequency of price changes over last financial year: annually,total,0,6–19 employees,C1100.06,10500
-Frequency of price changes over last financial year: annually,total,0,20–49 employees,C1100.06,2460
-Frequency of price changes over last financial year: annually,total,0,50–99 employees,C1100.06,678
+Frequency of price changes over last financial year: annually,total,0,6â€“19 employees,C1100.06,10500
+Frequency of price changes over last financial year: annually,total,0,20â€“49 employees,C1100.06,2460
+Frequency of price changes over last financial year: annually,total,0,50â€“99 employees,C1100.06,678
 Frequency of price changes over last financial year: annually,total,0,100+ employees,C1100.06,546
 Frequency of price changes over last financial year: annually,"Agriculture, forestry, & fishing",1,total,C1100.06,795
 Frequency of price changes over last financial year: annually,Agriculture,2,total,C1100.06,348
@@ -1973,9 +1973,9 @@ Frequency of price changes over last financial year: annually,Health care & soci
 Frequency of price changes over last financial year: annually,Arts & recreation services,1,total,C1100.06,201
 Frequency of price changes over last financial year: annually,Other services,1,total,C1100.06,462
 Frequency of price changes over last financial year: annually,total,0,total,C1100.06,14184
-Frequency of price changes over last financial year: did not change,total,0,6–19 employees,C1100.07,4668
-Frequency of price changes over last financial year: did not change,total,0,20–49 employees,C1100.07,726
-Frequency of price changes over last financial year: did not change,total,0,50–99 employees,C1100.07,165
+Frequency of price changes over last financial year: did not change,total,0,6â€“19 employees,C1100.07,4668
+Frequency of price changes over last financial year: did not change,total,0,20â€“49 employees,C1100.07,726
+Frequency of price changes over last financial year: did not change,total,0,50â€“99 employees,C1100.07,165
 Frequency of price changes over last financial year: did not change,total,0,100+ employees,C1100.07,102
 Frequency of price changes over last financial year: did not change,"Agriculture, forestry, & fishing",1,total,C1100.07,309
 Frequency of price changes over last financial year: did not change,Agriculture,2,total,C1100.07,141
@@ -2020,9 +2020,9 @@ Frequency of price changes over last financial year: did not change,Health care 
 Frequency of price changes over last financial year: did not change,Arts & recreation services,1,total,C1100.07,207
 Frequency of price changes over last financial year: did not change,Other services,1,total,C1100.07,165
 Frequency of price changes over last financial year: did not change,total,0,total,C1100.07,5661
-Importance of temporary price reductions to pricing strategy of the business: not important,total,0,6–19 employees,C1200.01,15993
-Importance of temporary price reductions to pricing strategy of the business: not important,total,0,20–49 employees,C1200.01,3564
-Importance of temporary price reductions to pricing strategy of the business: not important,total,0,50–99 employees,C1200.01,975
+Importance of temporary price reductions to pricing strategy of the business: not important,total,0,6â€“19 employees,C1200.01,15993
+Importance of temporary price reductions to pricing strategy of the business: not important,total,0,20â€“49 employees,C1200.01,3564
+Importance of temporary price reductions to pricing strategy of the business: not important,total,0,50â€“99 employees,C1200.01,975
 Importance of temporary price reductions to pricing strategy of the business: not important,total,0,100+ employees,C1200.01,675
 Importance of temporary price reductions to pricing strategy of the business: not important,"Agriculture, forestry, & fishing",1,total,C1200.01,891
 Importance of temporary price reductions to pricing strategy of the business: not important,Agriculture,2,total,C1200.01,318
